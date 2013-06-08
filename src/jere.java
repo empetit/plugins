@@ -5,6 +5,7 @@ public class jere {
 	
 	public jere(String nom){
 		this.nom = nom;
+		this.nom = null;
 	}
 	
 }
